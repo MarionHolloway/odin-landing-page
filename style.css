@@ -72,11 +72,7 @@ button {
     padding: 12px 36px;
 }
 
-.placeholder {
-    background-color: grey;
-    color: #e5e7eb;
+.placeholder img{
     flex: 1;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    max-height: 250px;
 }
